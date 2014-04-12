@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../Project/Dungeon/Assets/Scripts/Sizechanger.cs">
+    <Files>
+      <File FileName="../../Project/Dungeon/Assets/UnityChan/Scripts/UnityChanThirdPersonCamera.cs" Line="1" Column="1" />
+      <File FileName="../../Project/Dungeon/Assets/UnityChan/Scripts/UnityChanControlScriptWithRgidBody.cs" Line="1" Column="1" />
+      <File FileName="../../Project/Dungeon/Assets/Scripts/Attacker.cs" Line="1" Column="1" />
+      <File FileName="../../Project/Dungeon/Assets/Scripts/Targetter.cs" Line="1" Column="1" />
+      <File FileName="../../Project/Dungeon/Assets/Scripts/Sizechanger.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
